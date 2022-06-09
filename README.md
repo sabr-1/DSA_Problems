@@ -1,3 +1,3 @@
-#DSA_Problems
+# DSA_Problems
 
-##Data Structures and Algorithms Problem Solving
+## Data Structures and Algorithms Problem Solving
