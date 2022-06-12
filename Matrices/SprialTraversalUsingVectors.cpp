@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// Time Complexity--> O(nxm)  Space Complexity--> Depends if you want to store elements in another vector then it is O(nxm) else O(1);
 vector<int> spiralTraversal(vector<vector<int>> &v)
 {
     int row_start = 0, row_end = v.size() - 1, column_start = 0, column_end = v[0].size() - 1;
